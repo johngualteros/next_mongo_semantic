@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# Next mongo semantic ui
+![](./public/next_mongo_01.png)
+![](./public/next_mongo_02.png)
+![](./public/next_mongo_03.png)
 ## Getting Started
 
 First, run the development server:
